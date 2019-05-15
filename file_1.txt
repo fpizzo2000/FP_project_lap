@@ -2,3 +2,6 @@ You are the man!
 hello my friend
 Today is closer to the next day
 You are the greatest!
+Keep up the good work.
+Git is awesome!
+Hello world!
